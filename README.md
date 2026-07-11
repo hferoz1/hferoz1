@@ -37,5 +37,3 @@ I'm an undergraduate at **DePaul University** majoring in **Computer Science** (
 ## Connect with me
 - 📧 Email: [feroz.hafsa1@gmail.com](mailto:feroz.hafsa1@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/hafsaferoz](http://www.linkedin.com/in/hafsaferoz)
-- 💻 GitHub: [github.com/hferoz1](https://github.com/hferoz1)
-- 📱 Phone: +1 (224) 209-0998
