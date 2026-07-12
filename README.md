@@ -1,6 +1,5 @@
 # Hi, I'm Hafsa! ✨
-
-### Computer Science Student • Aspiring Full-Stack Engineer
+### Computer Science Student • Aspiring AI Engineer
 Building intelligent software that solves real-world problems while making technology more accessible.
 
 <p align="left">
@@ -22,30 +21,25 @@ Building intelligent software that solves real-world problems while making techn
 ---
 
 ## About Me
-I'm a Computer Science student at DePaul University with a passion for building AI-powered applications, full-stack software, and human-centered technology. As a first-generation college student, I enjoy creating projects that make technology more accessible through education, mentorship, and thoughtful design. Whether I'm training machine learning models, developing web applications, or mentoring aspiring developers, I love building solutions that create meaningful impact.
+I'm a Computer Science student at DePaul University with a passion for building AI/ML-powered applications and human-centered technology. As a first-generation college student, I love creating projects that make technology more accessible through education, mentorship, and thoughtful design. Whether I'm training classification models, developing full-stack applications, or mentoring aspiring developers, I care about building solutions that create real impact.
 
 ---
 
 ## What I'm Currently Learning
-- Artificial Intelligence & Machine Learning
+- Machine Learning & Classification Models
 - Large Language Models (LLMs)
 - Cloud AI Applications
-- Full-Stack Development
-- Product Design
+- Full-Stack Development for AI Products
 - Responsible AI
 
 ---
 
 ## Experience
+**AI Engineering Intern** — PwC · Summer 2026
 
-### AI Engineering Intern — PwC
-Summer 2026
+**AI Studio Fellow** — Break Through Tech @ Cornell University · June 2026 - Present
 
-### AI Studio Fellow — Break Through Tech @ Cornell University
-June 2026 - Present 
-
-### Start Intern, Commercial Technology & Innovation — PwC
-Summer 2025
+**Commercial Technology & Innovation Intern** — PwC · Summer 2025
 
 ---
 
@@ -54,26 +48,46 @@ Summer 2025
 ### CareerConnect
 A mentorship platform connecting first-generation college students with mentors through personalized matching, messaging, and goal tracking.
 
-**Tech:** React · Node.js · Prisma · SQLite
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### SmartInvest Pro
 An investment calculator that models long-term financial growth using interactive charts and investment comparisons.
 
-**Tech:** Java · TypeScript · Angular · REST APIs
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
 ## Leadership & Community
-- **America Needs You (ANY) Fellow**: professional development fellowship for first-gen college students
-- **DemonTHON Alumni Relations Director**: DePaul's student-run philanthropy dance marathon
+- **America Needs You (ANY) Fellow** — professional development fellowship for first-gen college students
+- **DemonTHON Alumni Relations Director** — DePaul's student-run philanthropy dance marathon
 - **DePaul University William E. Hay Leadership Accelerator Scholar**
+
+---
+
+## Awards & Honors
+- DePaul Future Forward Scholarship & Presidential Scholarship
+- DePaul Excellence in Leadership: Outstanding First-Year Award (2024)
+- William E. Hay Leadership Accelerator Scholarship (2025)
+- APIA Scholarship (2025)
+- CME Group Foundation Scholarship (2025)
+
+## Licenses & Certifications
+- **Machine Learning Foundations** — Cornell University / Break Through Tech AI Program (ongoing)
+- **AWS Educate: Machine Learning Foundations** (2025)
+- **Google AI Essentials** (2025)
+- **Google IT Support Professional Certificate** — Coursera (2025)
 
 ---
 
 ## Tech Stack
 
 **Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -81,8 +95,13 @@ An investment calculator that models long-term financial growth using interactiv
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
 
-**Frameworks & Tools**
+**ML / Data Science**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+**Frameworks & Tools**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -92,4 +111,9 @@ An investment calculator that models long-term financial growth using interactiv
 
 ---
 
+## GitHub Stats
+![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
 ⭐ Feel free to reach out, and thank you for stopping by!
