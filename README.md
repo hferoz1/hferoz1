@@ -1,39 +1,112 @@
-# Hi, I'm Hafsa Feroz 👋
+# Hi, I'm Hafsa!
 
-Somewhere in Chicago, you'll find me at a coffee shop, latte in hand, building my next project.
+### Computer Science Student • Aspiring AI Full-Stack Engineer
 
-I'm an undergraduate at **DePaul University** majoring in **Computer Science** (Software Development concentration, Data Science minor), and I'm passionate about **AI engineering**, ethical technology, and creating tools that make a real impact. As a first-generation college student, I care deeply about mentorship and helping others navigate tech pathways.
+Building intelligent software that solves real-world problems while making technology more accessible.
 
-## What I'm focused on
-- AI engineering and practical machine learning applications
-- Building user-centered software that solves real problems
-- Responsible and ethical use of generative AI
-- Supporting first-generation students through mentorship and community
+<p align="left">
+  📍 Chicago, IL <br>
+  🎓 B.S. Computer Science (Software Development) + Data Science Minor<br>
+  🏫 DePaul University<br>
+  💼 Incoming AI Engineering Intern @ PwC (Summer 2026)
+</p>
 
-## Experience highlights
-- **Advance Intern – AI Engineering (Incoming), PwC (2026)**
-- **AI Studio Fellow, Break Through Tech (Cornell-certified ML track)**
-- **Start Intern – Commercial Technology & Innovation, PwC (2025)**
-- **Online Learning Ambassador, DePaul University**
-- **Youth Services Specialist (STEAM focus), Skokie Public Library**
+<p align="left">
+<a href="https://linkedin.com/in/hafsaferoz">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## Selected projects
-- **CareerConnect**: Full-stack mentorship platform for first-generation students (React, Node.js, Prisma, SQLite)
-- **SmartInvest Pro**: Investment calculator with projections and comparison tools (Java, TypeScript, Angular, REST APIs)
-- **Visions of Vogue**: AI-powered virtual fashion showcase using generative AI tools
-- **Tap-to-Table dining system**: NFC-enabled table discovery concept with web + backend logic
+<a href="mailto:feroz.hafsa1@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-## Leadership & impact
+---
+
+# About Me
+
+I'm a Computer Science student at DePaul University with a passion for building AI-powered applications, full-stack software, and human-centered technology. As a first-generation college student, I enjoy creating projects that make technology more accessible through education, mentorship, and thoughtful design. Whether I'm training machine learning models, developing web applications, or mentoring aspiring developers, I love building solutions that create meaningful impact.
+
+---
+
+# What I'm Currently Learning
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Large Language Models (LLMs)
+- ☁️ Cloud AI Applications
+- 💻 Full-Stack Development
+- 🎯 Product Design
+- ⚖️ Responsible AI
+
+---
+
+# Experience
+
+## AI Engineering Intern
+**PwC • Summer 2026**
+
+---
+
+## AI Studio Fellow
+**Break Through Tech @ Cornell University**
+
+---
+
+## Start Intern – Commercial Technology & Innovation
+**PwC • Summer 2025**
+
+---
+
+# Featured Projects
+
+## CareerConnect
+
+A mentorship platform connecting first-generation college students with mentors through personalized matching, messaging, and goal tracking.
+
+**Tech**
+
+`React`
+`Node.js`
+`Prisma`
+`SQLite`
+
+---
+
+## SmartInvest Pro
+
+An investment calculator that models long-term financial growth using interactive charts and investment comparisons.
+
+**Tech**
+
+`Java`
+`TypeScript`
+`Angular`
+`REST APIs`
+
+---
+
+# Leadership
+
 - Break Through Tech AI Fellow
 - America Needs You Fellow
-- DePaul DemonTHON Alumni Relations Director
-- SpecSquad Ambassador (AnitaB.org)
+- CodePath Peer Mentor
+- AnitaB.org SpecSquad Ambassador
+- DePaul University Dance Marathon -- DemonTHON Alumni Relations Director
+- William E. Hay Leadership Accelerator Scholar
 
-## Skills
-**Languages:** Python, Java, JavaScript, TypeScript, SQL, C++, Rust, HTML, CSS  
-**Frameworks/Libraries:** React, Flask, Tailwind CSS, Pandas, NumPy, Scikit-learn  
-**Tools:** Git, GitHub, Google Cloud, MongoDB, MySQL, Figma, Hugging Face
+---
 
-## Connect with me
-- 📧 Email: [feroz.hafsa1@gmail.com](mailto:feroz.hafsa1@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/hafsaferoz](http://www.linkedin.com/in/hafsaferoz)
+# 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+
+---
+
+⭐ Feel free to reach out, and thank you for stopping by!
