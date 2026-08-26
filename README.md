@@ -121,6 +121,4 @@ An investment calculator that models long-term financial growth using interactiv
 
 ⭐ Feel free to reach out, and thank you for stopping by!
 
-![Visitor Count](https://komarev.com/ghpvc/?username=hferoz1)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=hferoz1&label=You+are+visitor+number&color=blueviolet&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=hferoz1&label=You+are+visitor+number&color=0D1117&style=flat-square)
