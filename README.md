@@ -1,12 +1,11 @@
 # Hi, I'm Hafsa! ✨
-### Computer Science Student • Aspiring AI Engineer
+### Computer Science Student • Aspiring Full-Stack Engineer
 Building intelligent software that solves real-world problems while making technology more accessible.
 
 <p align="left">
   📍 Chicago, IL <br>
   🎓 B.S. Computer Science (Software Development) + Data Science Minor<br>
   🏫 DePaul University, Class of 2027<br>
-  💼 Incoming AI Engineering Intern @ PwC (Summer 2026)
 </p>
 
 <p align="left">
@@ -26,20 +25,19 @@ I'm a Computer Science student at DePaul University with a passion for building 
 ---
 
 ## What I'm Currently Learning
-- Machine Learning & Classification Models
 - Large Language Models (LLMs)
-- Cloud AI Applications
 - Full-Stack Development for AI Products
+- System Design & Software Architecture
 - Responsible AI
 
 ---
 
 ## Experience
-**AI Engineering Intern** — PwC · Summer 2026
+**AI Engineering Intern** - PwC · Summer 2026
 
-**AI Studio Fellow** — Break Through Tech @ Cornell University · June 2026 - Present
+**AI Studio Fellow** - Break Through Tech @ Cornell University · June 2026 - Present
 
-**Commercial Technology & Innovation Intern** — PwC · Summer 2025
+**Commercial Technology & Innovation Intern** - PwC · Summer 2025
 
 ---
 
@@ -64,8 +62,8 @@ An investment calculator that models long-term financial growth using interactiv
 ---
 
 ## Leadership & Community
-- **America Needs You (ANY) Fellow** — professional development fellowship for first-gen college students
-- **DemonTHON Alumni Relations Director** — DePaul's student-run philanthropy dance marathon
+- **America Needs You (ANY) Fellow** - professional development fellowship for first-gen college students
+- **DemonTHON Alumni Relations Director** - DePaul's student-run philanthropy dance marathon
 - **DePaul University William E. Hay Leadership Accelerator Scholar**
 
 ---
@@ -78,10 +76,10 @@ An investment calculator that models long-term financial growth using interactiv
 - CME Group Foundation Scholarship (2025)
 
 ## Licenses & Certifications
-- **Machine Learning Foundations** — Cornell University / Break Through Tech AI Program (ongoing)
+- **Machine Learning Foundations** - Cornell University / Break Through Tech AI Program (2026)
 - **AWS Educate: Machine Learning Foundations** (2025)
 - **Google AI Essentials** (2025)
-- **Google IT Support Professional Certificate** — Coursera (2025)
+- **Google IT Support Professional Certificate** - Coursera (2025)
 
 ---
 
@@ -119,6 +117,6 @@ An investment calculator that models long-term financial growth using interactiv
 
 ---
 
-⭐ Feel free to reach out, and thank you for stopping by!
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=hferoz1&label=You+are+visitor+number&color=1a7a32&style=flat-square)
+
+⭐ Feel free to reach out, and thank you for stopping by!
