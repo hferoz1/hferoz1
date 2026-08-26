@@ -120,3 +120,7 @@ An investment calculator that models long-term financial growth using interactiv
 ---
 
 ⭐ Feel free to reach out, and thank you for stopping by!
+
+![Visitor Count](https://badges.pufler.dev/visits/hferoz1/hferoz1)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=hferoz1)
