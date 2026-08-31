@@ -110,10 +110,7 @@ An investment calculator that models long-term financial growth using interactiv
 ---
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-3k41-jijt23t7e-hafsa-feroz.vercel.app/api?username=hferoz1&show_icons=true&theme=dark" width="240" height="135" style="display:inline-block;"/>
-  <img src="https://github-readme-stats-3k41-jijt23t7e-hafsa-feroz.vercel.app/api/top-langs/?username=hferoz1&layout=compact&theme=dark" width="240" height="135" style="display:inline-block;"/>
-</p>
+![Hafsa's GitHub Activity](https://ghchart.rshah.org/hferoz1)
 
 ---
 
