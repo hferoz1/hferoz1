@@ -20,7 +20,7 @@ Building intelligent software that solves real-world problems while making techn
 ---
 
 ## About Me
-I'm a Computer Science student at DePaul University with a passion for building AI/ML-powered applications and human-centered technology. As a first-generation college student, I love creating projects that make technology more accessible through education, mentorship, and thoughtful design. Whether I'm training classification models, developing full-stack applications, or mentoring aspiring developers, I care about building solutions that create real impact.
+I'm a Computer Science student at DePaul University passionate about building AI/ML-powered applications and human-centered technology. As a first-generation college student, I care about making technology more accessible through education, mentorship, and thoughtful design. I'm drawn to problems where AI and accessibility intersect, and I'm working toward a career building thoughtful, responsible tech.
 
 ---
 
